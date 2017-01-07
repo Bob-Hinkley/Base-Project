@@ -1,2 +1,5 @@
 #Base Project
-##Contains index, app.js, and stylesheet
+*Contains
+  *index
+  *app.js
+  *stylesheet
