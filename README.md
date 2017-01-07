@@ -1,5 +1,5 @@
 #Base Project
 ###Contains
-  -index
-  -app.js
-  -stylesheet
+  - index
+  - app.js
+  - stylesheet
